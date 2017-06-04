@@ -5,6 +5,11 @@ A Simple react app based on youtube-api.
 
 ```sh
  $ cd zealer-mini-youtube
+ 
+ #install required packages
+ $ npm install
+ 
+ #run the server
  $ npm start
 ```
 
